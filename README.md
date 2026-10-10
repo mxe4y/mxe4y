@@ -60,10 +60,10 @@
 <div align="left">
   <!-- ЗАМЕНИ 'YOUR_USERNAME' НИЖЕ НА ТВОЙ РЕАЛЬНЫЙ НИКНЕЙМ GITHUB -->
   <a href="https://github.com/KasRoudra/github-stats-card">
-    <img src="https://kasroudra-stats-card.onrender.com/user?user=YOUR_USERNAME&theme=dark" alt="GitHub Stats" />
+    <img src="https://kasroudra-stats-card.onrender.com/user?user=mxe4y&theme=dark" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/KasRoudra/github-stats-card">
-    <img src="https://kasroudra-stats-card.onrender.com/lang?user=YOUR_USERNAME&theme=dark&layout=compact" alt="Top Languages" />
+    <img src="https://kasroudra-stats-card.onrender.com/lang?user=mxe4y&theme=dark&layout=compact" alt="Top Languages" />
   </a>
 </div>
 
