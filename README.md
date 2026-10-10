@@ -8,7 +8,7 @@
 
 <h3 align="center">I am a programmer in several programming languages. I mainly focus on low-level programming and system development, but I also work with front-end and mobile development.</h3>
 
-- 🔭 I’m currently working on **YablokoOS**
+- 🔭 I’m currently working on **Leaffy**
 - 🌱 I’m currently learning **Zig** and **C**
 - 💬 Ask me about **Low level development, Zig, and OS creation**
   
